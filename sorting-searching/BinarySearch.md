@@ -1,0 +1,18 @@
+## Binary Search
+
+Binary search is an efficient algorithm for finding an item from an ordered list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one.
+
+Example:
+
+![BinarySearch](binarysearch.jpg)
+
+## Challenge
+
+You task implement Binary Search.
+
+## Resources
+[Wiki](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+## More Challenges
+
+[Leetcode](https://leetcode.com/tag/binary-search/)
