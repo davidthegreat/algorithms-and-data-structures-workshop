@@ -27,7 +27,7 @@ You're given two single linked lists. You should find the node where two linked 
 
   Output:
 
-    `5`
+    `4`
 
 ###Find middle element in linked List
 You're given single linked list. Find the middle element.
