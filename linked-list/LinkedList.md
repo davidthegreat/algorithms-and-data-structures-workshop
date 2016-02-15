@@ -1,5 +1,35 @@
 
 ##  Linked List
+A linked-list is a sequence of data structures which are connected together via links.
+
+Linked List is a sequence of links which contains items. Each link contains a connection to another link. Linked list the second most used data structure after array. Following are important terms to understand the concepts of Linked List.
+
+Link − Each Link of a linked list can store a data called an element.
+
+Next − Each Link of a linked list contain a link to next link called Next.
+
+###Linked List Representation
+
+Linked list can be visualized as a chain of nodes, where every node points to the next node.
+
+![LinkedList](linked-list.jpg)
+
+###Basic Operations
+Following are the basic operations supported by a list.
+
+`Insertion` − add an element at the beginning of the list.
+
+`Deletion` − delete an element at the beginning of the list.
+
+`Display` − displaying complete list.
+
+`Search` − search an element using given key.
+
+`Delete` − delete an element using given key.
+
+
+##Challenges
+
 ### Delete node in link list.
 
 You’re given the pointer to the head node of a single linked list and the position of a node to delete.
