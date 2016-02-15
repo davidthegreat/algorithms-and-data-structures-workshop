@@ -18,7 +18,7 @@ Data Structures:
 1. [Arrays](arrays-and-strings/Arrays.md)
 2. [Strings](arrays-and-strings/Strings.md)
 3. [Linked Lists](linked-list/LinkedList.md)
-4. [Stacks](stacks/Stacks.ms)
+4. [Stacks](stacks/Stacks.md)
 5. Heaps
 6. Queues
 7. Trees
