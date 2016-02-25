@@ -12,7 +12,7 @@ Next − Each Link of a linked list contain a link to next link called Next.
 
 Linked list can be visualized as a chain of nodes, where every node points to the next node.
 
-![LinkedList](linked-list.jpg)
+![LinkedList](linked_list.jpg)
 
 ###Basic Operations
 Following are the basic operations supported by a list.
