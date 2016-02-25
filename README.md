@@ -20,7 +20,7 @@ Data Structures:
 3. [Linked Lists](linked-list/LinkedList.md)
 4. [Stacks](stacks/Stacks.md)
 5. Heaps
-6. Queues
+6. [Queues](queues/Queues.md)
 7. Trees
   1. Binary Tree
   2. [Binary Search Tree](tree/BinarySearchTree.md)
