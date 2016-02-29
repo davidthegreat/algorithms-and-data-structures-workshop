@@ -23,7 +23,7 @@ Data Structures:
 6. [Queues](queues/Queues.md)
 7. Trees
   1. Binary Tree
-  2. [Binary Search Tree](tree/BinarySearchTree.md)
+  2. [Binary Search Tree](trees/BinarySearchTree.md)
 8. Graphs
   1. [BFS](graphs/BFS.md)
   2. [DFS](graphs/BFS.md)
