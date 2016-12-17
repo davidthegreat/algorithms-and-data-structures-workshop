@@ -1,7 +1,7 @@
 ## Binary Search Tree
 What is difference between Binary Tree and Binary Search Tree?
 
-### Inorder, preorder, postorder traverse
+### Inorder, preorder, postorder traverse (resucrsive and iterative solution)
 You are given a pointer to the root of a binary search tree; print the values in preorder, inorder and postorder traversal.
 
 ### Insert, find and delete element
